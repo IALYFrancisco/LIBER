@@ -1,2 +1,5 @@
 #environement de dev
 .venv
+
+#editor
+.idea
